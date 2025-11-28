@@ -1,16 +1,44 @@
-## Hi there 👋
+## Halla 👋
 
-<!--
-**bharatpremkumar/bharatpremkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jeg heter **Bharat Premkumar**, og jeg jobber som Full-stack utvikler for **NAV – Direktoratet**, i **Team Yrkesskade**.  
+Her jobber jeg med:
 
-Here are some ideas to get you started:
+- Digitale skademeldinger og skadeforklaringsskjemaer  
+- Saksbehandlersystemet som brukes for å behandle og vedta skademeldinger  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Utdanning
+
+Mastergrad i teknologi fra NTNU, med spesialisering i maskinteknikk og IKT.  
+[Studiet mitt](https://www.ntnu.no/studier/mting)
+
+---
+
+### 🛠️ Teknologistack
+
+**Språk & rammeverk:**  
+- JavaScript  
+- Kotlin  
+- Python  
+- React  
+- React Native  
+- GraphQL  
+- Spring Boot
+
+**Database:**  
+- PostgreSQL  
+
+**AI & maskinlæring:**  
+- Modellutvikling  
+- Datasettbehandling  
+- Trening og evaluering av ML-modeller  
+
+**Annet:**  
+- Robotteknikk  
+- Mekatronikk  
+
+---
+
+### 📫 Kontakt meg  
+[LinkedIn](https://www.linkedin.com/in/bharat-premkumar)
