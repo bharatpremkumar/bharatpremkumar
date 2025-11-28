@@ -25,4 +25,4 @@ Jeg jobber hovedsakelig med **Kotlin** og **Spring Boot** i backend, og **React*
 ---
 
 ## 🌐 Du kan kontakte meg her
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bharat-premkumar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/bharat-premkumar) 
