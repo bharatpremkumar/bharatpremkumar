@@ -1,4 +1,12 @@
-Halla 👋<br><br>Jeg heter **Bharat Premkumar**, og jeg jobber som Full-stack utvikler for **NAV – Direktoratet**, i **Team Yrkesskade**.  <br>Her jobber jeg med:<br><br>- Digitale skademeldinger og skadeforklaringsskjemaer  <br>- Saksbehandlersystemet som brukes for å behandle og vedta skademeldinger  <br><br>
+# Halla 👋  
+
+Jeg heter **Bharat Premkumar**, og jeg jobber som **Full-stack utvikler** for **NAV – Direktoratet**, i **Team Yrkesskade**.  
+
+I teamet jobber jeg **tverrfaglig** med designere, fagspesialister og utviklere for å videreutvikle og **drifte den digitale løsningen for yrkesskade**, som brukes av hele Norges befolkning.  
+
+Jeg jobber hovedsakelig med **Kotlin** og **Spring Boot** i backend, og **React** i frontend, og er med på å **vedlikeholde og forbedre arkitekturen** bak:  
+- Digitale **skademeldinger** og **skadeforklaringsskjemaer**  
+- **Saksbehandlersystemet** som brukes til å behandle og vedta skademeldinger  
 
 
 ## 🎓 Utdanning
